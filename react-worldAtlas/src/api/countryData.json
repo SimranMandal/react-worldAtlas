@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "interestingFacts": "The U.S. has no official language at the federal level."
+    },
+    {
+      "id": 2,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "interestingFacts": "Canada has more lakes than the rest of the world combined."
+    },
+    {
+      "id": 3,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "interestingFacts": "India is the world's largest democracy."
+    },
+    {
+      "id": 4,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1439323776,
+      "interestingFacts": "China is home to the world's largest high-speed rail network."
+    },
+    {
+      "id": 5,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "interestingFacts": "Brazil is the only country in South America where Portuguese is spoken."
+    },
+    {
+      "id": 6,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "interestingFacts": "Australia is home to over 10,000 beaches."
+    },
+    {
+      "id": 7,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145934462,
+      "interestingFacts": "Russia spans 11 time zones."
+    },
+    {
+      "id": 8,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 126476461,
+      "interestingFacts": "Japan has more vending machines than any other country."
+    },
+    {
+      "id": 9,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "interestingFacts": "Germany is known as the land of poets and thinkers."
+    },
+    {
+      "id": 10,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "interestingFacts": "France is the most visited country in the world."
+    },
+    {
+      "id": 11,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "interestingFacts": "The UK has over 30 UNESCO World Heritage Sites."
+    },
+    {
+      "id": 12,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 60461826,
+      "interestingFacts": "Italy is home to the most UNESCO World Heritage Sites."
+    },
+    {
+      "id": 13,
+      "countryName": "South Africa",
+      "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+      "population": 59308690,
+      "interestingFacts": "South Africa has three capital cities."
+    },
+    {
+      "id": 14,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128932753,
+      "interestingFacts": "Mexico introduced chocolate, chillies, and corn to the world."
+    },
+    {
+      "id": 15,
+      "countryName": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45195774,
+      "interestingFacts": "Argentina was the first country to use fingerprinting in criminal cases."
+    },
+    {
+      "id": 16,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 102334404,
+      "interestingFacts": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "id": 17,
+      "countryName": "Turkey",
+      "capital": "Ankara",
+      "population": 84339067,
+      "interestingFacts": "Istanbul, not Ankara, is the largest city in Turkey."
+    },
+    {
+      "id": 18,
+      "countryName": "South Korea",
+      "capital": "Seoul",
+      "population": 51269185,
+      "interestingFacts": "South Korea is the world's leader in internet connectivity."
+    },
+    {
+      "id": 19,
+      "countryName": "New Zealand",
+      "capital": "Wellington",
+      "population": 4822233,
+      "interestingFacts": "New Zealand was the first country to allow women to vote."
+    },
+    {
+      "id": 20,
+      "countryName": "Saudi Arabia",
+      "capital": "Riyadh",
+      "population": 34813871,
+      "interestingFacts": "Saudi Arabia is the largest country in the world without a river."
+    }
+  ]
+  
